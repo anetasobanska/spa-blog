@@ -1,11 +1,3 @@
-Co nie dziala:
-
-- po stworzeniu postu trzeba odswiezyc strone
-- nie dziala update postu po stronie backendu
-- brak pliku env i placeholderow w zapytaniach sql
-
----
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
